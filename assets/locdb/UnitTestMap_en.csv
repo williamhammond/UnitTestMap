@@ -1,0 +1,13 @@
+﻿ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
+1,,,Mod name.,,,Unit Test Map
+2,,,Mod description.,,,Allows users to test out unit compositions
+3,,,,,,UnitTestMap
+4,,,,,,Economy
+5,,,,,,Resources Per Minute
+6,,,,,,The number of resources given to each player every minute
+7,,,,,,200 Resources
+8,,,,,,500 Resources
+9,,,,,,Each player gets 200 of each resource every minute
+10,,,,,,Each player gets 500 of each resource every minute
+11,,,,,,Construct 5 Houses
+12,,,,,,%1AMOUNT% of each resource added
